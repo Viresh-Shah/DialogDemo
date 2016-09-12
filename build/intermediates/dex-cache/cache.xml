@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Viresh\AndroidStudioProjects\DialogDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6719130072f7b09f0206d19e547570112c0ad01a">
+        <dex dex="C:\Users\Viresh\AndroidStudioProjects\DialogDemo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_040ef0337f5aeb0398cc9ec9f2ebf37b306d0502.jar" />
+    </item>
+    <item
+        jar="C:\Users\Viresh\AndroidStudioProjects\DialogDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="642dc8a4a41686d1077b27feacc3bc956c117a1b">
+        <dex dex="C:\Users\Viresh\AndroidStudioProjects\DialogDemo1\app\build\intermediates\pre-dexed\debug\instant-run_eb748fcfc98f8521e9627af39b99f6e5805ef511.jar" />
+    </item>
+    <item
+        jar="C:\Users\Viresh\Documents\and\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Viresh\AndroidStudioProjects\DialogDemo1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bf25dda80bd13b73e0963f686eae8e156c0fab8b.jar" />
+    </item>
+
+</items>

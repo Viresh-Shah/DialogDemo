@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\prog_dialog.xml",
+        "source": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\src\\main\\res\\menu\\prog_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\negative.xml",
+        "source": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\src\\main\\res\\menu\\negative.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\positive.xml",
+        "source": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\src\\main\\res\\menu\\positive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\progress_dialog.xml",
+        "source": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\src\\main\\res\\menu\\progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alert_dialogdemo.xml",
+        "source": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\src\\main\\res\\menu\\alert_dialogdemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dttimepicker.xml",
+        "source": "C:\\Users\\Viresh\\AndroidStudioProjects\\DialogDemo1\\app\\src\\main\\res\\menu\\dttimepicker.xml"
+    }
+]

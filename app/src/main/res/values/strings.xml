@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DialogDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="decesion">Do you want to continue</string>
+    <string name="title_activity_positive">PositiveActivity</string>
+    <string name="title_activity_negative">NegativeActivity</string>
+    <string name="title_activity_progress_dialog">ProgressDialog</string>
+    <string name="title_activity_prog_dialog">ProgDialog</string>
+    <string name="title_activity_dttimepicker">Dttimepicker</string>
+
+</resources>
